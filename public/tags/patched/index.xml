@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patched on </title>
-    <link>https://deepwokensupport.web.app/tags/patched/</link>
+    <link>http://localhost:1313/tags/patched/</link>
     <description>Recent content in Patched on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://deepwokensupport.web.app/tags/patched/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/patched/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>--PATCHED-- Potion Cap bypass</title>
-      <link>https://deepwokensupport.web.app/posts/potion-cap-bypass-patched/</link>
+      <link>http://localhost:1313/posts/potion-cap-bypass-patched/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deepwokensupport.web.app/posts/potion-cap-bypass-patched/</guid>
+      <guid>http://localhost:1313/posts/potion-cap-bypass-patched/</guid>
       <description>&lt;p&gt;5/28/2024&lt;/p&gt;
 &lt;p&gt;Bypass potion cap:
 1. Drop Potions

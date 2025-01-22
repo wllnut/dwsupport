@@ -105,3 +105,7 @@ title = "Deepwoken Support"
         identifier = "SupportAcademy"
         name = "Support Academy"
         url = "https://discord.gg/unSx4zAH5a"
+      [[languages.en.menu.main]]
+        identifier = "Tags"
+        name = "Tags"
+        url = "/tags"

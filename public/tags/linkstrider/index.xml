@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linkstrider on </title>
-    <link>https://deepwokensupport.web.app/tags/linkstrider/</link>
+    <link>http://localhost:1313/tags/linkstrider/</link>
     <description>Recent content in Linkstrider on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://deepwokensupport.web.app/tags/linkstrider/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/linkstrider/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue Tether Defense Buff</title>
-      <link>https://deepwokensupport.web.app/posts/blue-tether-defense-buff/</link>
+      <link>http://localhost:1313/posts/blue-tether-defense-buff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deepwokensupport.web.app/posts/blue-tether-defense-buff/</guid>
+      <guid>http://localhost:1313/posts/blue-tether-defense-buff/</guid>
       <description>&lt;p&gt;4/20/2024&lt;/p&gt;
 &lt;p&gt;Tethering allies with Symbiotic Link buffs their damage and defense&lt;/p&gt;
 &lt;p&gt;This is demonstrated by Monkey Boy&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Illusory Realm Tether</title>
-      <link>https://deepwokensupport.web.app/posts/visionshaper-realm-tether/</link>
+      <link>http://localhost:1313/posts/visionshaper-realm-tether/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deepwokensupport.web.app/posts/visionshaper-realm-tether/</guid>
+      <guid>http://localhost:1313/posts/visionshaper-realm-tether/</guid>
       <description>&lt;p&gt;6/30/2024&lt;/p&gt;
 &lt;p&gt;Symbiotic Link is able to target players who are inside of Illusory Realm.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cdn.discordapp.com/attachments/1129854924243607562/1256961500552105994/RPReplay_Final1717260695.mov?ex=6791985e&amp;amp;is=679046de&amp;amp;hm=c696e404ac8212fe844602171781b6f1048318c7f8fd8655d12a94a7e5c6362c&amp;amp;&#34;&gt;Example video&lt;/a&gt;&lt;/p&gt;</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>Rampart Wind Jump</title>
-      <link>https://deepwokensupport.web.app/posts/wind-jump-rampart/</link>
+      <link>http://localhost:1313/posts/wind-jump-rampart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deepwokensupport.web.app/posts/wind-jump-rampart/</guid>
+      <guid>http://localhost:1313/posts/wind-jump-rampart/</guid>
       <description>&lt;p&gt;1/14/2025&lt;/p&gt;
 &lt;p&gt;Metal Rampart &amp;gt; Wind Jump &amp;gt; Parasitic Leech&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cdn.discordapp.com/attachments/1129854924243607562/1328942341041557544/nepnepp.mp4?ex=6791c400&amp;amp;is=67907280&amp;amp;hm=5f476948fb36ae32778974177d42b008cafd9a91b0e037d1cfccaa8115d421d3&amp;amp;&#34;&gt;Example video&lt;/a&gt;&lt;/p&gt;</description>
@@ -59,10 +59,10 @@
     
     <item>
       <title>Tired of Leech giving autoparry?</title>
-      <link>https://deepwokensupport.web.app/posts/avoid-leech-autoparry/</link>
+      <link>http://localhost:1313/posts/avoid-leech-autoparry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deepwokensupport.web.app/posts/avoid-leech-autoparry/</guid>
+      <guid>http://localhost:1313/posts/avoid-leech-autoparry/</guid>
       <description>&lt;p&gt;4/2/2024&lt;/p&gt;
 &lt;p&gt;Parasitic Leech is able to proc talents such as Anxious Guard. This allows us to lessen the effect of its autoparry frames.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cdn.discordapp.com/attachments/1129854924243607562/1224835294801690734/Leech__Anxious_Guard.mp4?ex=67916542&amp;amp;is=679013c2&amp;amp;hm=1e7c0278e0b33c22b1e9f1b0f79a8812ea592c3a19d7a089e981f572ca067640&amp;amp;&#34;&gt;Example video&lt;/a&gt;&lt;/p&gt;
