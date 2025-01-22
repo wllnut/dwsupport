@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bombs on </title>
-    <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/bombs/</link>
+    <link>http://localhost:1313/tags/bombs/</link>
     <description>Recent content in Bombs on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/bombs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/bombs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iron Bomb Cap Bypass</title>
-      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/bomb-cap-bypass/</link>
+      <link>http://localhost:1313/posts/bomb-cap-bypass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/bomb-cap-bypass/</guid>
+      <guid>http://localhost:1313/posts/bomb-cap-bypass/</guid>
       <description>&lt;p&gt;6/13/2024&lt;/p&gt;
 &lt;p&gt;By crafting 20 bombs while you have 79 in your inventory, you are able to proc Explosive Efficiency to bypass the bomb cap.&lt;/p&gt;
 &lt;p&gt;This will generate between 119 and 139 bombs&lt;/p&gt;

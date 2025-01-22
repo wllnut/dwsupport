@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Watch on </title>
-    <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/watch/</link>
+    <link>http://localhost:1313/tags/watch/</link>
     <description>Recent content in Watch on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/watch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/watch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ultimate Tower</title>
-      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/the-ultimate-tower/</link>
+      <link>http://localhost:1313/posts/the-ultimate-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/the-ultimate-tower/</guid>
+      <guid>http://localhost:1313/posts/the-ultimate-tower/</guid>
       <description>&lt;p&gt;1/19/2025&lt;/p&gt;
 &lt;p&gt;Double metal rampart&lt;/p&gt;
 &lt;p&gt;Mostly useless&amp;hellip;&lt;/p&gt;

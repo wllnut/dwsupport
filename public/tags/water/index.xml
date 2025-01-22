@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water on </title>
-    <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/water/</link>
+    <link>http://localhost:1313/tags/water/</link>
     <description>Recent content in Water on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/water/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/water/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rhythm Tech for Water Fights</title>
-      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/leap-mantra-rhythm/</link>
+      <link>http://localhost:1313/posts/leap-mantra-rhythm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/leap-mantra-rhythm/</guid>
+      <guid>http://localhost:1313/posts/leap-mantra-rhythm/</guid>
       <description>&lt;p&gt;12/20/2024&lt;/p&gt;
 &lt;p&gt;By using vertical mobility mantras, support players are able to proc rhythm during water fights.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/HOKOK-e6wVg&#34;&gt;Example video&lt;/a&gt;&lt;/p&gt;</description>

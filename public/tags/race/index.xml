@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Race on </title>
-    <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/race/</link>
+    <link>http://localhost:1313/tags/race/</link>
     <description>Recent content in Race on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/race/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/tags/race/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capra Marks Work in Iframes</title>
-      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/capra-mark-iframes/</link>
+      <link>http://localhost:1313/posts/capra-mark-iframes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/capra-mark-iframes/</guid>
+      <guid>http://localhost:1313/posts/capra-mark-iframes/</guid>
       <description>&lt;p&gt;10/16/2024&lt;/p&gt;
 &lt;p&gt;Capra marks are usable in Iframes&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/WL4y76Ef1IE&#34;&gt;Example video&lt;/a&gt;&lt;/p&gt;</description>
