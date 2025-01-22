@@ -1,9 +1,12 @@
-baseurl = "https://dwsupport.vercel.app"
+baseurl = "https://deepwokensupport.web.app"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "re-terminal"
 paginate = 5
+
+[site]
+title = "Deepwoken Support"
 
 [params]
   # dir name of your main content (default is `content/posts`).
