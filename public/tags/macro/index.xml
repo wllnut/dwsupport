@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macro on </title>
-    <link>//localhost:1313/tags/macro/</link>
+    <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/macro/</link>
     <description>Recent content in Macro on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/macro/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/tags/macro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potion Brewing Macro</title>
-      <link>//localhost:1313/posts/potion-brewing-macro/</link>
+      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/potion-brewing-macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/potion-brewing-macro/</guid>
+      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/potion-brewing-macro/</guid>
       <description>&lt;p&gt;7/18/2024&lt;/p&gt;
 &lt;h2 id=&#34;yall-hate-making-potions-right&#34;&gt;Y&amp;rsquo;all hate making potions right?&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s an AutoHotKey script for making them.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Vow of Mastery Macro</title>
-      <link>//localhost:1313/posts/vow-of-mastery-macro/</link>
+      <link>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/vow-of-mastery-macro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/vow-of-mastery-macro/</guid>
+      <guid>https://dwsupport-72ypidsnr-wllnuts-projects.vercel.app/posts/vow-of-mastery-macro/</guid>
       <description>&lt;p&gt;9/13/2024&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discordapp.com/channels/1127754281454420019/1129854924243607562/1284203763711868980&#34;&gt;Message link&lt;/a&gt;&lt;/p&gt;</description>
       <content>&lt;p&gt;9/13/2024&lt;/p&gt;
