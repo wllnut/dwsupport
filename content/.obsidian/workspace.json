@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "dca9e780331c62bf",
+    "id": "875265f3c3befca2",
     "type": "split",
     "children": [
       {
-        "id": "a96119bd1a5debd6",
+        "id": "f1e54c46dbd6fc5a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb14ea3955884647",
+            "id": "6a99fc16bb65088e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b913482c48973b37",
+    "id": "30053022857e8944",
     "type": "split",
     "children": [
       {
-        "id": "d346ad037023e5cb",
+        "id": "91fc156fce11ac0a",
         "type": "tabs",
         "children": [
           {
-            "id": "6aec01420772a30c",
+            "id": "3f13b3a29c635ec3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "bb6a2f0c0818601f",
+            "id": "e3e56a37d99aeea5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "ead6aeca6775edca",
+            "id": "0af21f860080dc9e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,22 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "5d8eea94366825e9",
+    "id": "67bce46d5c8fa885",
     "type": "split",
     "children": [
       {
-        "id": "c57d762e08c43bbb",
+        "id": "7aa134ec3a9a2d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "636720dd2f165d58",
+            "id": "64ec44128af2719c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +102,7 @@
             }
           },
           {
-            "id": "e3a3d2e9558351bb",
+            "id": "0020c4329a30bbb6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +115,7 @@
             }
           },
           {
-            "id": "7cbd74ee6503a1b0",
+            "id": "4e233e6efa544f49",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,7 +128,7 @@
             }
           },
           {
-            "id": "cc2aaaf3cf84284b",
+            "id": "9dc2c55d1445f6b0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -155,35 +154,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb14ea3955884647",
+  "active": "6a99fc16bb65088e",
   "lastOpenFiles": [
-    "~.md",
-    "Audacity Properties.odt",
-    "lu664705iw92iz.tmp",
-    "The ultimate tower.md",
-    "Wind Jump Rampart.md",
-    "Wind Passage Modification Cap.md",
-    "Static Flash Clone Insanity Bell.md",
-    "Leap mantra rhythm.md",
-    "Audacity Properties.md",
-    "Audacity.md",
-    "Audacity in Static Clones.md",
-    "Replenishing Knockout.md",
-    "Capra Mark Iframes.md",
-    "Lightning Stream Potential.md",
-    "Spark Swap command summon.md",
-    "Vow of mastery macro.md",
-    "Teleportation Return.md",
-    "Detonation Silversix Grip Confirm.md",
-    "Potion Brewing Macro.md",
-    "Visionshaper Realm Tether.md",
-    "Bomb Cap Bypass.md",
-    "Potion Cap Bypass (Patched).md",
-    "Ironsing Bell Movestacks.md",
-    "Return Grip Tech.md",
-    "Blue tether defense buff.md",
-    "Max Sing Range.md",
-    "Avoid Leech Autoparry.md",
-    "Mindsoothe Doesn't Scale.md"
+    "about.md"
   ]
 }
