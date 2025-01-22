@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "dca9e780331c62bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6014411342cb2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636ee8e3491f2b22",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b913482c48973b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "d346ad037023e5cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aec01420772a30c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb6a2f0c0818601f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ead6aeca6775edca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d8eea94366825e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57d762e08c43bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636720dd2f165d58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e3a3d2e9558351bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7cbd74ee6503a1b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc2aaaf3cf84284b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "636ee8e3491f2b22",
+  "lastOpenFiles": [
+    "Audacity Properties.odt",
+    "lu664705iw92iz.tmp",
+    "The ultimate tower.md",
+    "Wind Jump Rampart.md",
+    "Wind Passage Modification Cap.md",
+    "Static Flash Clone Insanity Bell.md",
+    "Leap mantra rhythm.md",
+    "Audacity Properties.md",
+    "Audacity.md",
+    "Audacity in Static Clones.md",
+    "Replenishing Knockout.md",
+    "Capra Mark Iframes.md",
+    "Lightning Stream Potential.md",
+    "Spark Swap command summon.md",
+    "Vow of mastery macro.md",
+    "Teleportation Return.md",
+    "Detonation Silversix Grip Confirm.md",
+    "Potion Brewing Macro.md",
+    "Visionshaper Realm Tether.md",
+    "Bomb Cap Bypass.md",
+    "Potion Cap Bypass (Patched).md",
+    "Ironsing Bell Movestacks.md",
+    "Return Grip Tech.md",
+    "Blue tether defense buff.md",
+    "Max Sing Range.md",
+    "Avoid Leech Autoparry.md",
+    "Mindsoothe Doesn't Scale.md"
+  ]
+}
